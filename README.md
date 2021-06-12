@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there! I'm nekiak
 
+- I love linux!
+- I know Java, Python, Typescript, Javascript and some Kotlin
+- Currently learning C++
+
+### Contact me
+
+- Matrix: `@nekiak:matrix.org`
+- Email: `neekiak@gmail.com`
+- Discord: `gon#4768`
 <!--
 **nekiak/nekiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
