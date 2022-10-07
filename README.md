@@ -8,5 +8,5 @@
 
 - Matrix: `@nekiak:matrix.org`
 - Email: `neekiak@gmail.com`
-- Discord: `gon#4768`
+- Discord: `gon#1234`
 - Keybase: `keybase.io/nekiak`
