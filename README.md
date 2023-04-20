@@ -1,8 +1,8 @@
-### Hi there! I'm nekiak
+### Hi there! I'm gon (or nekiak)
 
-- I love linux!
+- I love Linux!
 - I know Java, Python, Typescript, Javascript and some Kotlin
-- Currently learning C++
+- Currently learning (math)
 
 ### Contact me
 
