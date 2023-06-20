@@ -2,11 +2,11 @@
 
 - I love Linux!
 - I know Java, Python, Typescript, Javascript and some Kotlin
-- Currently learning (math)
+- Currently learning (nothing)
 
 ### Contact me
  
 - Matrix: `@nekiak:matrix.org`
 - Email: `neekiak@gmail.com`
-- Discord: `gon#1234`
+- Discord: `nekiak`
 - Keybase: `keybase.io/nekiak`
